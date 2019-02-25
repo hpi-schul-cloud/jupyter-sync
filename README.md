@@ -5,13 +5,12 @@
 
 ## About
 
-This project is supposed to sync the filesystem of jupyterhub with the schul-cloud@hpi.
-
-Based on the fileService before 11th of Februray 2019.
+This project is supposed to sync the File system of JupyterHub with the schul-cloud@hpi.
 
 ## Getting Started
 
-1. Make sure you have [NodeJS](https://nodejs.org/) and [npm](https://www.npmjs.com/) installed.
+1a. Make sure you have [NodeJS](https://nodejs.org/) and [npm](https://www.npmjs.com/) installed.
+1b. [MongoDB](https://www.mongodb.com/) ist required.
 2. Install your dependencies
 
     ```

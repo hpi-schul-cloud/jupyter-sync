@@ -1,7 +1,7 @@
 # jupyter-sync
 
 > 
-[![Not Maintained](https://img.shields.io/badge/Maintenance%20Level-Not%20Maintained-yellow.svg)](https://gist.github.com/cheerfulstoic/d107229326a01ff0f333a1d3476e068d)
+[![Not Maintained](https://img.shields.io/badge/Maintenance%20Level-Not%20Maintained-yellow.svg)](https://gist.github.com/cheerfulstoic/d107229326a01ff0f333a1d3476e068d) [![Greenkeeper badge](https://badges.greenkeeper.io/schul-cloud/jupyter-sync.svg)](https://greenkeeper.io/)
 
 ## About
 
